@@ -25,6 +25,7 @@ App criado para ascender e apagar a luz através de movimento e ou toque do celu
 </p>
 
 ### Para funcionamento via ``App.JS``
+Dê um forked no repositório para baixar as documentações.
 Ao baixar, tenha certeza de ter instalados os pacotes Node.Js, JDK via Chocolatey como consta nos documentos do React Native.
 
 
@@ -37,5 +38,5 @@ ou
 ``yarn android``
 
 ### Para funcionamento via ``APK``
-Basta fazer o download o do release que consta na pasta Android. O Apk pode ser instalado tanto em um emulador, como em um celular. Lembrando que instalando no celular dá pra ver o acender da luz traseira na tela de boas vindas do Apk.
+Dê um forked no repositório para baixar as documentações. Basta fazer o download o do release que consta na pasta Android. O Apk pode ser instalado tanto em um emulador, como em um celular. Lembrando que instalando no celular dá pra ver o acender da luz traseira na tela de boas vindas do Apk.
           
